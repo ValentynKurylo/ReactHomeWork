@@ -1,0 +1,11 @@
+.wrapPosts{
+    border: 2px solid darkslategrey;
+    width: 50%;
+}
+.wrapPost{
+    border: 2px solid black;
+    width: 50%;
+}
+.Posts{
+    display: flex;
+}
